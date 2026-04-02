@@ -14,7 +14,7 @@
 10. The terminal must be used to run Git commands
 
 # Github commands
-$ Git add .
-$ Git commit -m "commit message"
-$ Git push
-$ Git checkout -b branch-name
+1. $ Git add .
+2. $ Git commit -m "commit message"
+3. $ Git push
+4. $ Git checkout -b branch-name
