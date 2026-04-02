@@ -9,7 +9,7 @@
 8. Use the JupyterHub File Browser in the side panel to open the directory ece492-final-project
 9. Navigate to the Github integration using the JupyterHub side panel
 10. Initalize the local directory
-10. The terminal must be used to run Git commands
+11. The terminal must be used to run Git commands
 
 # Github commands
 1. $ Git checkout -b branch-name
