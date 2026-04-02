@@ -1,5 +1,3 @@
-# ece492-final-project
-
 # Github Repository Instructions
 1. Install Pageant https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 2. Download id_rsa_private.ppk, ssh.sh, and id_rsa_openssh from the ece492-final-project Github repository
