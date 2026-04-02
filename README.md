@@ -12,7 +12,7 @@
 11. The terminal must be used to run Git commands
 
 # Github commands
-1. $ Git checkout -b branch-name
+1. $ Git checkout -b working
 2. $ Git add .
 3. $ Git commit -m "commit message"
 4. $ Git push
