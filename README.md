@@ -16,3 +16,4 @@
 2. $ Git add .
 3. $ Git commit -m "commit message"
 4. $ Git push
+5. $ Git pull
